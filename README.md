@@ -1,3 +1,6 @@
+# crawling-quotes
+A simple practice python web crawling using scrapy 
+
 # Scrapy
 Scrapy is a free and open-source web-crawling framework written in Python
 
@@ -34,5 +37,4 @@ pip install Scrapy
 ### Create new project 
 ```bash
 scrapy startproject <projectname>
-```
-# crawling-quotes
+
